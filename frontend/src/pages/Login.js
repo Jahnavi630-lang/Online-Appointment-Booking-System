@@ -27,7 +27,7 @@ function Login() {
 
       const response =
         await axios.post(
-          "https://online-appointment-booking-system-7338.onrender.com/api/login",
+  "https://online-appointment-booking-system-7338.onrender.com/api/auth/login",
           {
             email,
             password

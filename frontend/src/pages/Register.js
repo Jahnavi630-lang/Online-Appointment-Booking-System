@@ -29,7 +29,7 @@ function Register() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:5000/api/auth/register",
+         "https://online-appointment-booking-system-7338.onrender.com/api/auth/register",
         {
           name,
           email,
