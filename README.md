@@ -153,6 +153,20 @@ Render / Netlify / Vercel
 * Real-Time Appointment Scheduling Workflow
 * Industry-Oriented MERN Stack Project
 
+
+## Live Demo
+
+### Frontend Deployment
+[text](https://online-appointment-booking-system-1-ury7.onrender.com)
+
+### Backend Deployment
+[text]https://online-appointment-booking-system-7338.onrender.com
+
+## GitHub Repository
+[text](https://github.com/Jahnavi630-lang/Online-Appointment-Booking-System)
+
+
+
 ## Author
 
 Jahnavi

@@ -16,7 +16,7 @@ function MyAppointments() {
 
         const response =
           await axios.get(
-            "http://127.0.0.1:5000/api/appointments/all"
+            "https://online-appointment-booking-system-7338.onrender.com/api/appointments/all"
           );
 
         setAppointments(

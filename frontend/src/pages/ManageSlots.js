@@ -22,7 +22,7 @@ function ManageSlots() {
 
         const response =
           await axios.get(
-            "http://127.0.0.1:5000/api/services/all"
+            "https://online-appointment-booking-system-7338.onrender.com/api/services/all"
           );
 
         const service =
@@ -78,7 +78,7 @@ function ManageSlots() {
       try {
 
         await axios.put(
-          `http://127.0.0.1:5000/api/services/slots/${serviceId}`,
+          `https://online-appointment-booking-system-7338.onrender.com/api/services/slots/${serviceId}`,
           {
             availableSlots:
               slots
